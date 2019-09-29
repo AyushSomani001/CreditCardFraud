@@ -29,7 +29,7 @@ Data Set: creditcard.csv classes (column 31) are strings and csvread assumes num
 
 ## Execute: run ccDriver.m
 
-## UPDATE: So far 84% Precision, 80% Recall, and 99.9% overall accuracy
+## UPDATE: So far 86% Precision, 80% Recall, and 99.9% overall accuracy
 
 ### TODO List:
 ```diff
